@@ -8,7 +8,7 @@ with a strong foundation in core Java, Selenium, Cucumber, TestNG, JUnit, SQL, M
 
 ## 🚀 Skills
 
-- *Programming Languages:* Java, Python, JavaScript (currently learning)
+- *Programming Languages:* C,Java, Python, JavaScript (currently learning)
 - *Testing Frameworks:* Selenium, Cucumber, TestNG, JUnit
 - *Database:* SQL,MySql,Oracle
 - *Build Tools:* Maven
@@ -19,6 +19,7 @@ with a strong foundation in core Java, Selenium, Cucumber, TestNG, JUnit, SQL, M
 
 I am currently expanding my knowledge in:
 
+- Exploring software development (DSA,Problem Solving,Building Projects)
 - Frontend Development with JavaScript
 
 ## 💼 Seeking Opportunities
